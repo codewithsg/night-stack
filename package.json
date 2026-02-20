@@ -29,6 +29,11 @@
         "label": "Night-Stack EyeStrain Green",
         "uiTheme": "vs-dark",
         "path": "./themes/eyestrain-green.json"
+      },
+      {
+        "label": "Night-Stack Carbon Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/carbon-green.json"
       }
     ]
   }
