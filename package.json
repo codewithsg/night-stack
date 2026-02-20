@@ -24,6 +24,11 @@
         "label": "Night-Stack Hacker Soft",
         "uiTheme": "vs-dark",
         "path": "./themes/hacker-soft.json"
+      },
+      {
+        "label": "Night-Stack EyeStrain Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eyestrain-green.json"
       }
     ]
   }
