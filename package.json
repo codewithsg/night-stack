@@ -19,6 +19,11 @@
         "label": "Night-Stack Green Neon",
         "uiTheme": "vs-dark",
         "path": "./themes/green-neon.json"
+      },
+      {
+        "label": "Night-Stack Hacker Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hacker-soft.json"
       }
     ]
   }
