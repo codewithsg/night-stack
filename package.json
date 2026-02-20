@@ -9,6 +9,12 @@
   },
   "categories": ["Themes"],
   "contributes": {
-    "themes": []
+    "themes": [
+      {
+        "label": "Night-Stack Pure Hacker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pure-hacker.json"
+      }
+    ]
   }
 }
