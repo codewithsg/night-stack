@@ -1,0 +1,100 @@
+{
+  "name": "Night-Stack Sage Dark",
+  "type": "dark",
+  "semanticHighlighting": true,
+
+  "colors": {
+    "editor.background": "#121614",
+    "editor.foreground": "#DCE8DC",
+    "editorCursor.foreground": "#9FC59F",
+    "editor.lineHighlightBackground": "#1C2320",
+    "editor.selectionBackground": "#2A332D",
+    "editor.inactiveSelectionBackground": "#222B25",
+
+    "activityBar.background": "#121614",
+    "activityBar.foreground": "#B7D3B7",
+    "activityBar.inactiveForeground": "#7F9F7F",
+
+    "sideBar.background": "#141A17",
+    "sideBar.foreground": "#C6DFC6",
+    "sideBar.border": "#1F2622",
+
+    "statusBar.background": "#141A17",
+    "statusBar.foreground": "#B7D3B7",
+
+    "titleBar.activeBackground": "#141A17",
+    "titleBar.activeForeground": "#C6DFC6",
+
+    "panel.background": "#121614",
+    "terminal.background": "#121614",
+    "terminal.foreground": "#DCE8DC",
+
+    "terminal.ansiBlack": "#202020",
+    "terminal.ansiRed": "#C97A7A",
+    "terminal.ansiGreen": "#8FBF8F",
+    "terminal.ansiYellow": "#CFCF9A",
+    "terminal.ansiBlue": "#8FAFD4",
+    "terminal.ansiMagenta": "#B39DDB",
+    "terminal.ansiCyan": "#8FD4CF",
+    "terminal.ansiWhite": "#E6E6E6"
+  },
+
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#7F9F7F",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#B7D3B7"
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#9FC59F",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "entity.name.function",
+      "settings": {
+        "foreground": "#C6DFC6"
+      }
+    },
+    {
+      "scope": "variable",
+      "settings": {
+        "foreground": "#DCE8DC"
+      }
+    },
+    {
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#CFCF9A"
+      }
+    },
+    {
+      "scope": "entity.name.type",
+      "settings": {
+        "foreground": "#9FBFAF"
+      }
+    }
+  ],
+
+  "semanticTokenColors": {
+    "variable": "#DCE8DC",
+    "function": "#C6DFC6",
+    "method": "#C6DFC6",
+    "string": "#B7D3B7",
+    "number": "#CFCF9A",
+    "keyword": "#9FC59F",
+    "type": "#9FBFAF",
+    "class": "#9FBFAF",
+    "invalid": "#C97A7A"
+  }
+}
