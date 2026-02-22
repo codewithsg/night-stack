@@ -129,6 +129,11 @@
         "label": "Night-Stack Neo Tokyo",
         "uiTheme": "vs-dark",
         "path": "./themes/neo-tokyo.json"
+      },
+      {
+        "label": "Night-Stack Night City",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-city.json"
       }
     ]
   }
