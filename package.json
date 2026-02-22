@@ -89,6 +89,11 @@
         "label": "Night-Stack Slate",
         "uiTheme": "vs-dark",
         "path": "./themes/slate.json"
+      },
+      {
+        "label": "Night-Stack Graphite",
+        "uiTheme": "vs-dark",
+        "path": "./themes/graphite.json"
       }
     ]
   }
