@@ -124,6 +124,11 @@
         "label": "Night-Stack Circuit",
         "uiTheme": "vs-dark",
         "path": "./themes/circuit.json"
+      },
+      {
+        "label": "Night-Stack Neo Tokyo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neo-tokyo.json"
       }
     ]
   }
