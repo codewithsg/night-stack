@@ -166,6 +166,11 @@
         "label": "Night-Stack Arctic Night",
         "uiTheme": "vs-dark",
         "path": "./themes/arctic-night.json"
+      },
+      {
+        "label": "Night-Stack Obsidian Glass",
+        "uiTheme": "vs-dark",
+        "path": "./themes/obsidian-glass.json"
       }
     ]
   }
