@@ -2,7 +2,7 @@
   "name": "night-stack",
   "displayName": "Night-Stack Theme Pack",
   "description": "Green-first hacker inspired dark theme pack with neon, pure hacker, eye-friendly, and stack-specific variants.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "codewithsg",
   "icon":"./images/night-stack.png",
   "repository": {
