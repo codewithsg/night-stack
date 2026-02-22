@@ -161,6 +161,11 @@
         "label": "Night-Stack Desert Dusk",
         "uiTheme": "vs-dark",
         "path": "./themes/desert-dusk.json"
+      },
+      {
+        "label": "Night-Stack Arctic Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arctic-night.json"
       }
     ]
   }
