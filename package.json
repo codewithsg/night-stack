@@ -186,6 +186,11 @@
         "label": "Night-Stack Onyx",
         "uiTheme": "vs-dark",
         "path": "./themes/onyx.json"
+      },
+      {
+        "label": "Night-Stack Amber CRT",
+        "uiTheme": "vs-dark",
+        "path": "./themes/amber-crt.json"
       }
     ]
   }
