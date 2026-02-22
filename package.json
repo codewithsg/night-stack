@@ -64,6 +64,11 @@
         "label": "Night-Stack Crimson Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/crimson-dark.json"
+      },
+      {
+        "label": "Night-Stack Indigo Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/indigo-dark.json"
       }
     ]
   }
