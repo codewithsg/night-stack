@@ -146,6 +146,11 @@
         "label": "Night-Stack Street Grid",
         "uiTheme": "vs-dark",
         "path": "./themes/street-grid.json"
+      },
+      {
+        "label": "Night-Stack Forest Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-night.json"
       }
     ]
   }
