@@ -141,6 +141,11 @@
         "label": "Night-Stack Hologram",
         "uiTheme": "vs-dark",
         "path": "./themes/hologram.json"
+      },
+      {
+        "label": "Night-Stack Street Grid",
+        "uiTheme": "vs-dark",
+        "path": "./themes/street-grid.json"
       }
     ]
   }
