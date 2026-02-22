@@ -119,6 +119,11 @@
         "label": "Night-Stack Ion",
         "uiTheme": "vs-dark",
         "path": "./themes/ion.json"
+      },
+      {
+        "label": "Night-Stack Circuit",
+        "uiTheme": "vs-dark",
+        "path": "./themes/circuit.json"
       }
     ]
   }
