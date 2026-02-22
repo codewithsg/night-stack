@@ -114,6 +114,11 @@
         "label": "Night-Stack Plasma",
         "uiTheme": "vs-dark",
         "path": "./themes/plasma.json"
+      },
+      {
+        "label": "Night-Stack Ion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ion.json"
       }
     ]
   }
