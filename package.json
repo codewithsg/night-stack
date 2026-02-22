@@ -201,6 +201,11 @@
         "label": "Night-Stack DOS Blue",
         "uiTheme": "vs-dark",
         "path": "./themes/dos-blue.json"
+      },
+      {
+        "label": "Night-Stack Retro Wave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/retro-wave.json"
       }
     ]
   }
