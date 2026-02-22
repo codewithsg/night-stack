@@ -216,6 +216,11 @@
         "label": "Night-Stack Mono Focus",
         "uiTheme": "vs-dark",
         "path": "./themes/mono-focus.json"
+      },
+      {
+        "label": "Night-Stack Low Contrast Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/low-contrast-pro.json"
       }
     ]
   }
