@@ -196,6 +196,11 @@
         "label": "Night-Stack Phosphor Green",
         "uiTheme": "vs-dark",
         "path": "./themes/phosphor-green.json"
+      },
+      {
+        "label": "Night-Stack DOS Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dos-blue.json"
       }
     ]
   }
