@@ -181,6 +181,11 @@
         "label": "Night-Stack Copper Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/copper-dark.json"
+      },
+      {
+        "label": "Night-Stack Onyx",
+        "uiTheme": "vs-dark",
+        "path": "./themes/onyx.json"
       }
     ]
   }
