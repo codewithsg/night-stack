@@ -2,7 +2,7 @@
   "name": "night-stack",
   "displayName": "Night-Stack Theme Pack",
   "description": "Green-first hacker inspired dark theme pack with neon, pure hacker, eye-friendly, and stack-specific variants.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "codewithsg",
   "engines": {
     "vscode": "^1.85.0"
