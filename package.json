@@ -171,6 +171,11 @@
         "label": "Night-Stack Obsidian Glass",
         "uiTheme": "vs-dark",
         "path": "./themes/obsidian-glass.json"
+      },
+      {
+        "label": "Night-Stack Titanium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/titanium.json"
       }
     ]
   }
