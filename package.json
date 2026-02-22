@@ -211,6 +211,11 @@
         "label": "Night-Stack Zen Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/zen-dark.json"
+      },
+      {
+        "label": "Night-Stack Mono Focus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mono-focus.json"
       }
     ]
   }
