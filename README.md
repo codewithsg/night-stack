@@ -253,8 +253,6 @@ Each stack theme adjusts syntax colors to match ecosystem branding and readabili
 
 # 📦 Installation
 
-Coming soon on VS Code Marketplace.
-
 Install VS Code Extension CLI
 ```bash
 npm i -g @vscode/vsce
