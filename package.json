@@ -206,6 +206,11 @@
         "label": "Night-Stack Retro Wave",
         "uiTheme": "vs-dark",
         "path": "./themes/retro-wave.json"
+      },
+      {
+        "label": "Night-Stack Zen Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zen-dark.json"
       }
     ]
   }
