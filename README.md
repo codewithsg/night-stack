@@ -6,6 +6,12 @@ Designed for full IDE coverage, Night-Stack balances aesthetics, readability, an
 
 ---
 
+## Screenshot
+![obsidian](screenshots/obsidian.png)
+![plasma](screenshots/plasma.png)
+![pure-hacker](screenshots/pure-hacker.png)
+
+
 # 🎨 Theme Families
 
 ---
