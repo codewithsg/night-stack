@@ -156,6 +156,11 @@
         "label": "Night-Stack Ocean Abyss",
         "uiTheme": "vs-dark",
         "path": "./themes/ocean-abyss.json"
+      },
+      {
+        "label": "Night-Stack Desert Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/desert-dusk.json"
       }
     ]
   }
