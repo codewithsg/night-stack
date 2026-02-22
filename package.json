@@ -99,6 +99,11 @@
         "label": "Night-Stack Carbon",
         "uiTheme": "vs-dark",
         "path": "./themes/carbon.json"
+      },
+      {
+        "label": "Night-Stack Noir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noir.json"
       }
     ]
   }
