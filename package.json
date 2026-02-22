@@ -7,7 +7,9 @@
   "engines": {
     "vscode": "^1.85.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
@@ -134,6 +136,11 @@
         "label": "Night-Stack Night City",
         "uiTheme": "vs-dark",
         "path": "./themes/night-city.json"
+      },
+      {
+        "label": "Night-Stack Hologram",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hologram.json"
       }
     ]
   }
