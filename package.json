@@ -44,6 +44,11 @@
         "label": "Night-Stack Aurora",
         "uiTheme": "vs-dark",
         "path": "./themes/aurora.json"
+      },
+      {
+        "label": "Night-Stack Midnight Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-blue.json"
       }
     ]
   }
