@@ -221,6 +221,11 @@
         "label": "Night-Stack Low Contrast Pro",
         "uiTheme": "vs-dark",
         "path": "./themes/low-contrast-pro.json"
+      },
+      {
+        "label": "Night-Stack Deep Work",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deep-work.json"
       }
     ]
   }
