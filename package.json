@@ -191,6 +191,11 @@
         "label": "Night-Stack Amber CRT",
         "uiTheme": "vs-dark",
         "path": "./themes/amber-crt.json"
+      },
+      {
+        "label": "Night-Stack Phosphor Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/phosphor-green.json"
       }
     ]
   }
