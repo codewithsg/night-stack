@@ -104,6 +104,11 @@
         "label": "Night-Stack Noir",
         "uiTheme": "vs-dark",
         "path": "./themes/noir.json"
+      },
+      {
+        "label": "Night-Stack Quantum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/quantum.json"
       }
     ]
   }
